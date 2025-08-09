@@ -16,6 +16,9 @@ Welcome to our Weather Forecasting App repository! This project provides a simpl
 - **`script.js`:** JavaScript file containing the logic and functionality of the weather forecasting app.
 - **`Other Files`:** Additional GIFs used to represent different weather conditions, Favicon also.
 
+
+Live Link : https://weather-web-app06.netlify.app/
+
 ## View
 
 ![Screenrecording]() 
