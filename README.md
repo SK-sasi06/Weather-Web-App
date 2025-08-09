@@ -19,10 +19,4 @@ Welcome to our Weather Forecasting App repository! This project provides a simpl
 
 Live Link : https://weather-web-app06.netlify.app/
 
-## View
-
-![Screenrecording]() 
-
-
-
 
